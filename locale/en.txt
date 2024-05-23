@@ -1,0 +1,19 @@
+#: locale=en
+
+## Media
+
+### Title
+model_B45AF0FA_A6D8_9C11_41D1_8D6EC4FB8345.label = boat
+
+## Skin
+
+### Button
+Button_B3E722C3_A6CB_9C77_41DE_50C3D79A4D37.label = Contract to view exterior
+Button_B5AA6849_A6C9_EC73_41E1_881C97DF7E36.label = Expand to view interior
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 3
