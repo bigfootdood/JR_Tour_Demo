@@ -3,21 +3,16 @@
 ## Media
 
 ### Title
-model_B45AF0FA_A6D8_9C11_41D1_8D6EC4FB8345.label = boat
+model_382F7C73_355A_9FAD_41B0_FE8F79AF9709.label = JR
 
 ## Skin
 
 ### Button
-Button_B3E722C3_A6CB_9C77_41DE_50C3D79A4D37_mobile.label = Contract to view exterior
-Button_B3E722C3_A6CB_9C77_41DE_50C3D79A4D37.label = Contract to view exterior
-Button_B5AA6849_A6C9_EC73_41E1_881C97DF7E36_mobile.label = Expand to view interior
-Button_B5AA6849_A6C9_EC73_41E1_881C97DF7E36.label = Expand to view interior
-Button_BB19E98B_A659_ECF0_41DA_001132B1E30B.label = Start
-Button_BDCA3BC6_A659_6C71_41B0_DCAD0C1E3EAD.label = Start
+Button_3ABBD477_355E_EF95_41C7_FFFD73CFEB6C.label = Reset View
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 3
+tour.name = Untitled 1
